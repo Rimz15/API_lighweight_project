@@ -23,3 +23,4 @@ Additional steps
 1) Created a Git repository
 2) Implement more negative test scenarios to thoroughly test the API's error-handling capabilities.
 3) Generate an HTML report using a suitable third-party plugin or library.
+4) Deleted the cypress.json file as cypress no longer supports cypress.json file and added the base url in cypress.config.json file
