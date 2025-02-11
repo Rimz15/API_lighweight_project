@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.bankofcanada.ca/valet",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "overwrite": false,
+    "html": true,
+    "json": false
+  }
+}
