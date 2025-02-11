@@ -14,6 +14,8 @@ npm install
 npx cypress open
 5) Run the tests 
 In the Cypress Test Runner, click on the test file (forex.spec.js) to run the tests.
+For reporting use npx cypress run
+and reports folder will be created inside cypress
 
 Observations
 The average CAD to USD conversion rate for the last 10 weeks is calculated correctly.
